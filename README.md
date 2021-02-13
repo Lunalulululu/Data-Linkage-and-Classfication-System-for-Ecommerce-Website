@@ -110,6 +110,7 @@ Plot clusters on heat map using VAT algorithm.
 Create cluster label using k-means where number of cluster = 3
 
 Figure 1 Heatmap
+![heatmap.png]https://github.com/Lunalulululu/Data-Linkage-and-Classfication-System-for-Ecommerce-Website/blob/main/heatmap.png
 
 8. Use SelectKBest(score_fun = chi2, k = 4) to select the best 4 features using chi-square functions. Justification: The above function will score each feature using chi square function and only keeps the top 4 highest scoring features.
 
